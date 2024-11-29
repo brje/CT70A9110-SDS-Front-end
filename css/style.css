@@ -466,8 +466,17 @@ hero .hero-text {
         text-align: center;
     }
 
-    .testimonials .testimonials-grid, .pricing .pricing-grid {
+    .testimonials .testimonials-grid,
+    .pricing .pricing-grid, .footer .footer-grid {
         grid-template-columns: 1fr;
+    }
+
+    .footer .card {
+        margin-right: 0;
+    }
+
+    footer .footer-grid > div {
+        text-align: center;
     }
 
     /* Text */
@@ -483,5 +492,7 @@ hero .hero-text {
 }
 
 @media (max-width: 500px) {
-
+    .text-xxl {
+        font-size: 2rem;
+    }
 }
