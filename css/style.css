@@ -243,7 +243,7 @@ hero .hero-text {
 
 .footer-grid {
     display: grid;
-    grid-template-columns: 2fr 1 fr 1fr 1fr;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
     gap: 30px;
     justify-content: center;
     align-items: center;
