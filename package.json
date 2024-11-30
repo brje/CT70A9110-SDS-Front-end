@@ -1,7 +1,7 @@
 {
   "name": "coursework",
-  "description": "SDS Front-end Project Work",
-  "homepage": "https://brje.github.io/sds-projectwork",
+  "description": "SDS Front-end Coursework",
+  "homepage": "https://brje.github.io/",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
