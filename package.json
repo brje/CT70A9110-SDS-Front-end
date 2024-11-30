@@ -1,11 +1,11 @@
 {
   "name": "coursework",
   "description": "SDS Front-end Coursework",
-  "homepage": "https://brje.github.io/",
+  "homepage": "https://brje.github.io/CT70A9110-SDS-Front-end",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d master"
   },
-  "dependencies": {
+  "devDependencies": {
     "gh-pages": "^6.2.0"
   }
 }
