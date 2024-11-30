@@ -3,7 +3,7 @@
   "description": "SDS Front-end Coursework",
   "homepage": "https://brje.github.io/CT70A9110-SDS-Front-end",
   "scripts": {
-    "deploy": "gh-pages -d master"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "gh-pages": "^6.2.0"
